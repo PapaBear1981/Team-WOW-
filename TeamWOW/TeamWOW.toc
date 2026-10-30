@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: TeamWOW
+## Notes: Tracks and shares PvP, dungeon/raid, profession and leveling stats with your friends.
+## Author: PapaBear1981
+## Version: 0.1.0
+## SavedVariables: TeamWOWDB
+## IconTexture: Interface\Icons\Ability_Warrior_BattleShout
+
+Core.lua
+Serializer.lua
+Comm.lua
+Sync.lua
+Roster.lua
+Commands.lua
+UI\MainFrame.lua
+UI\MinimapButton.lua
